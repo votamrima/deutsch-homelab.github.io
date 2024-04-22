@@ -2,7 +2,7 @@
 layout: single
 title: "Verben mit Präpositionen"
 subtitle: ""
-date: 2024-04-22 00:00:00 +01000
+date: 2024-04-20 00:00:00 +01000
 #background: '/img/posts/01.jpg'
 tags: ['verben_mit_prepositionen']
 ---
