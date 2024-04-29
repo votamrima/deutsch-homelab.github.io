@@ -15,6 +15,7 @@ tags: ['verben_mit_prepositionen']
 einschreiben | записывать | Familie möchte das Kind in eine Fremdspracheschule einschreiben
 wahrnehmen | воспринимать | Neue Information Wahrnehmen
 Vergnügung die | развлекательное видео | Vergnügung Video 
+zuverlässig | надёжный | |
 
 
 ## Synonyme:
