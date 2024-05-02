@@ -105,6 +105,10 @@ telefonieren|mit|+ D|Hast du schon mit dem Arzt telefonieren?
 Sich trefen|Mit|+ D|Die Kanzlerin trifft sich täglich mit ihrem Pressesprecher
 |||
 
+| | | | |
+| ---- | ---- | --- | --- |
+setzen | auf |  | = Vertrauen haben, sich verlassen 
+
 
 {% endraw %}
 
