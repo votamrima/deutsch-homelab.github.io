@@ -108,6 +108,7 @@ Sich trefen|Mit|+ D|Die Kanzlerin trifft sich täglich mit ihrem Pressesprecher
 | | | | |
 | ---- | ---- | --- | --- |
 setzen | auf |  | = Vertrauen haben, sich verlassen 
+ausbilden | für | | 
 
 
 {% endraw %}
