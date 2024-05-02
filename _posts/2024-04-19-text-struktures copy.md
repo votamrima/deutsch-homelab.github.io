@@ -16,6 +16,7 @@ einschreiben | записывать | Familie möchte das Kind in eine Fremdspra
 wahrnehmen | воспринимать | Neue Information Wahrnehmen
 Vergnügung die | развлекательное видео | Vergnügung Video 
 zuverlässig | надёжный | |
+nämlich | а именно, то есть | Ich muss nämlich ein Versprechen einlösen
 
 
 ## Synonyme:

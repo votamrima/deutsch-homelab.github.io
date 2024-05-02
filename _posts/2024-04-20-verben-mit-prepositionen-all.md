@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Verben mit Präpositionen"
+title: "Verben mit Präpositionen all"
 subtitle: ""
-date: 2024-04-20 00:00:00 +01000
+date: 2024-05-02 00:00:00 +01000
 #background: '/img/posts/01.jpg'
 tags: ['verben_mit_prepositionen']
 ---
@@ -30,6 +30,7 @@ Sich beschweren |Bei|+ D|Der Gast beschwert sich beim Kellner
 Bestehen |aus|+ D|Eheringe bestehen aus Gold
 Bestehen |Auf|+ D|Ich bestehe auf sofortiger Bezahlung des Autos
 Sich beteilien|An|+ D|Viele Studenten beteiligen sich an den Streiks
+|||
 Sich bewerben |Bei|+ D|Er erwirbt sich bei einer Bäckerei
 Sich bewerben|Um|+ A|Sie bewirbt sich um eine Stelle als Sekretärin
 Sich beziehen|Auf|+ A|Meine Frage bezieht sich auf Ihr Angebot
@@ -50,6 +51,7 @@ Erschrecken |Über|+ A|Der koch erschrickt über eine Maus
 Erzählen|Über |+ A|Ein Ostberliner erzählt über sein Leben in der ehemaligen DDR 
 Fragen|Nach|+ D|Die Journalisten fragt nach den Konsenquenzen der Gesetzeänderung
 Sich freuen|Auf|+ A|Kinder freuen sich auf die Ferien
+| | | 
 Sich freuen|Über|+ A|Jeder freut sich über eine Gehaltserhöhung
 Gehen|Um|+ A|Immer geht es um Geld
 Gehören |Zu|+ D|Das Elsass  gehört zu Frankreich
@@ -70,8 +72,38 @@ Klagen|Über|+ A|Tim klangt häufig über Kopfschmerzen
 Kämpfen|Für|+ A|Die Gewerkschaft kämpft für höhere Löhne
 Kommen|Zu|+ D|In der Beprechung kam es zu einem Streit
 |||
-
-			
+Sich konzentrieren|Auf|+ A|Karl konzentriert sich auf seine Hausaufgaben
+Sich kümmern|Um|+ A|Im Pflegeheim kümmert man sich um alte Leute, die krank sind
+lachen|Über|+ A|Über einen guten Witz muss man laut lachen
+leiden|An|+ D|Jeder fünfte Manager leidet an Burn-out
+leiden|Unter|+ D|Kaffetrinker leiden unter Schlafproblemen
+Nachdenken|Über|+ A|Neamte müssen nicht über ihre Rente nachdenken
+Protestieren|Gegen|+ A|Viele Menschen protestieren gegen Atomkraft
+Rechnen|Mit|+ D|Im Januar muss man mit Schnee rechnen
+Reden|Von|+ A|Großvater redet von den guten alten Zeiten
+riechen|nach|+ D|Hier riecht es nach Kuchen
+|||
+Sagen|Über|+ A|Brigitte sagt über Dietmar, dass er of lügt
+sagen|zu|+ D|Was sagst du zu meinem neuen Haarschnitt?
+schicken|an|+ A|Die E-Mail schicke ich dir morgen
+Schicken|Zu|+ D|Der Allgemeinmediziner schickt den Patienten zu einem Spezialisten
+Schimpfen|Über|+ A|Alle schimpfen über den Regen
+Schmecken|Nach|+ D|Muscheln schmecken nach Meerwasser
+Schreiben|An|+ A|Bitte schreibe noch heute an deine Mutter
+sich schützen | von | + D | Den Komputer
+Sein|Für|+ A|Ich bin die Abschaffung der Kinderarbeit
+Sein|Gegen|+ A|Viele sind gegen Steuererhöhungen
+|||
+Sorgen|Für|+ A|Kinder müssen im Alter für ihre Eltern sorgen
+Sprechen|Mit|+ D|Ich spreche noch einmal mit deinem Vater
+Sprechen|Über|+ A|Lass uns über deine Zukunft sprechen
+Sterben|An|+ D|Zwei Deutsche sind an der Grippe gestorben
+Streiten|Mit|+ D|Ich möchste nicht mit dir streiten
+Streiten|Über|+ A|Die USA und Deutschland streite über eine neue Strategie
+teilnehmen|an|+ D|Nordkorea nimmt an der Fußball-VM teil
+telefonieren|mit|+ D|Hast du schon mit dem Arzt telefonieren?
+Sich trefen|Mit|+ D|Die Kanzlerin trifft sich täglich mit ihrem Pressesprecher
+|||
 
 
 {% endraw %}
